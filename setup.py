@@ -7,14 +7,14 @@ with open("README.md", "r") as fh:
 
 
 setup(
-    name="meshplot",
-    version="0.3.3",
-    author="Sebastian Koch",
+    name="assmblypathway",
+    version="0.0.1",
+    author="Keith Patarroyo",
     author_email="",
-    description="Interactive Plotting of 3D Triangle Meshes",
+    description="Interactive Plotting of Assembly Spaces",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/skoch9/meshplot/",
+    url="https://github.com/KeithNotebooks/keithnotebooks.github.io/",
     packages=setuptools.find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
