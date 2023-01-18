@@ -7,7 +7,7 @@ with open("README.md", "r") as fh:
 
 
 setup(
-    name="assmblypathway",
+    name="assemblypathway",
     version="0.0.1",
     author="Keith Patarroyo",
     author_email="",
